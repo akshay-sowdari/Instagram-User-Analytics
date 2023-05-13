@@ -1,1 +1,2 @@
 # Instagram-User-Analytics
+This project delves into the concept of User analytics which typically refers to the analysis of user behavior and data to gain insights into user preferences, habits, and patterns. Our end goal is to discover valuable insights and behavioral patterns from data, to meet these requirements we’re going to utilize MySQL. By doing so, we aim to provide helpful insights that benefit different teams within the organization.
